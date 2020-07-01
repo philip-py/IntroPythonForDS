@@ -1,11 +1,7 @@
 # Intro to Python For Data Science
 
-THIS IS TOTALLY MY CHANGE!
-
 this is just in master!
 This repo contains the teaching material for the Introduction to Python (and useful libraries) masterclass at the [Data Science Retreat](http://datascienceretreat.com/), it does not cover Pandas.
-
-NEWBRANCH RIGHT HERE!
 
 ## Table of contents
 
